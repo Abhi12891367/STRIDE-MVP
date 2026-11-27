@@ -1,0 +1,44 @@
+{
+  "emails": [
+    {
+      "id": "em_101",
+      "sender": "prof.sharma@college.edu",
+      "subject": "Lab Submission & Viva Prep",
+      "snippet": "Please bring printed lab records and your working C code for tomorrow's evaluation at 10:00 AM."
+    },
+    {
+      "id": "em_102",
+      "sender": "hackathon-team@college.edu",
+      "subject": "Pitch Deck Review",
+      "snippet": "Let's sync at 10:15 AM tomorrow to finalize the 3-minute demo script."
+    }
+  ],
+  "calendar": [
+    {
+      "id": "ev_201",
+      "title": "Lab Evaluation & Viva",
+      "start": "10:00 AM",
+      "end": "11:30 AM",
+      "date": "Tomorrow"
+    },
+    {
+      "id": "ev_202",
+      "title": "Hackathon Pitch Sync",
+      "start": "10:15 AM",
+      "end": "10:45 AM",
+      "date": "Tomorrow"
+    }
+  ],
+  "tasks": [
+    {
+      "task": "Print Lab Record",
+      "deadline": "Tonight, 9:00 PM",
+      "status": "Pending"
+    },
+    {
+      "task": "Push Stride MVP to GitHub",
+      "deadline": "Tomorrow, 8:00 AM",
+      "status": "In Progress"
+    }
+  ]
+}
